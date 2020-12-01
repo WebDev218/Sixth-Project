@@ -1,2 +1,2 @@
-# Sixth-Project
-Project 6
+# SixthProject
+ Sixth Project - Team Tree House
