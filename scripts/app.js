@@ -17,7 +17,7 @@ const keys = document.querySelectorAll('.keyrow button');
 let lettersLi = [];
 let playerScore = 0;
 let missed = 0;
-const phrases = ['Hello World', 'Good morning', 'How are you', 'I am fine', 'Dzien dobry'];
+const phrases = ['Hello World', 'Good morning', 'Happy Halloween', 'Merry Christmas', 'Happy New Year'];
 
 
 
